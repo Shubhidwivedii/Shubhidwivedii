@@ -75,17 +75,6 @@ A personalized diet recommendation platform that provides meal suggestions based
 
 ---
 
-## 🏆 Competitive Programming
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dwivedi_shubhi?theme=dark&font=Baloo&ext=heatmap" />
-</p>
-
-<p align="center">
-  <b>LeetCode Contest Rating:</b> 1490
-</p>
-
----
 
 ## 📊 GitHub Statistics
 
@@ -104,7 +93,6 @@ A personalized diet recommendation platform that provides meal suggestions based
 
 - 📧 Email: **dwivedishu03@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/shubhi-dwivedi-0818b6297/**
-- 🏆 LeetCode: **https://leetcode.com/u/Dwivedi_shubhi/**
 
 ---
 
